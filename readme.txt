@@ -1,4 +1,4 @@
 Git is a distributed version control system.
-Git is free software.
-By modified the third time
-By modified the forth time
+Git is free software distributed under the GPL.
+Git has a mutable index called stage.
+Git tracks changes.
